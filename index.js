@@ -19,6 +19,8 @@ const allowedOrigins = [
   'http://localhost:5173',
   'https://greenheadconsultancy.netlify.app',
   'https://www.greenheadconsultancy.netlify.app',
+   'https://greenheadsconsultants.com',
+  'https://www.greenheadsconsultants.com',
 ];
 
 app.use(cors({
